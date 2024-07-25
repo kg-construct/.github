@@ -3,11 +3,11 @@
 
 ## The new RML
 
-The new RML is now composed by six different modules. All information is available in the [RML Portal](https://w3id.org/rml/portal)
+The new RML is now composed of six different modules. All information is available in the [RML Portal](https://w3id.org/rml/portal)
 
 - [RML-Core](w3id.org/rml/core/spec). Main features of RML
-- [RML-IO](w3id.org/rml/io/spec). Input and Ouput features
-- [RML-FNML](w3id.org/rml/fnml/spec). Include adhoc transformation functions in RML
+- [RML-IO](w3id.org/rml/io/spec). Input and Output features
+- [RML-FNML](w3id.org/rml/fnml/spec). Include ad-hoc transformation functions in RML
 - [RML-CC](w3id.org/rml/cc/spec). Define Collection and Containers
 - [RML-STAR](w3id.org/rml/star/spec). Capabilities for generating RDF-Star graphs
 - [RML-LV](https://github.com/kg-construct/rml-lv) (ongoing work)
@@ -16,3 +16,6 @@ The new RML is now composed by six different modules. All information is availab
 
 Please go directly to [RML-Questions](https://github.com/kg-construct/rml-questions/discussions)
 
+## Tools for constructing your Knowledge Graphs
+
+Visit the [awesome-kgc-tool list](https://github.com/kg-construct/awesome-kgc-tools)
