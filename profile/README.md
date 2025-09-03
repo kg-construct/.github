@@ -5,11 +5,11 @@
 
 The new RML is now composed of six different modules. All information is available in the [RML Portal](https://w3id.org/rml/portal)
 
-- [RML-Core](w3id.org/rml/core/spec). Main features of RML
-- [RML-IO](w3id.org/rml/io/spec). Input and Output features
-- [RML-FNML](w3id.org/rml/fnml/spec). Include ad-hoc transformation functions in RML
-- [RML-CC](w3id.org/rml/cc/spec). Define the generation of Collection and Containers
-- [RML-STAR](w3id.org/rml/star/spec). Capabilities for generating RDF-Star graphs
+- [RML-Core](https://w3id.org/rml/core/spec). Main features of RML
+- [RML-IO](https://w3id.org/rml/io/spec). Input and Output features
+- [RML-FNML](https://w3id.org/rml/fnml/spec). Include ad-hoc transformation functions in RML
+- [RML-CC](https://w3id.org/rml/cc/spec). Define the generation of Collection and Containers
+- [RML-STAR](https://w3id.org/rml/star/spec). Capabilities for generating RDF-Star graphs
 - [RML-LV](https://github.com/kg-construct/rml-lv). Define views for advanced data access and transformations.
 
 ## Do you have questions about RML?
