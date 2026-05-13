@@ -12,6 +12,8 @@ The new RML is now composed of six different modules. All information is availab
 - [RML-STAR](https://w3id.org/rml/star/spec). Capabilities for generating RDF-Star graphs
 - [RML-LV](https://github.com/kg-construct/rml-lv). Define views for advanced data access and transformations.
 
+The RML Implementation Report [is also available](https://kg-construct.github.io/implementation-report/)
+
 ## Do you have questions about RML?
 
 Please go directly to [RML-Questions](https://github.com/kg-construct/rml-questions/discussions)
